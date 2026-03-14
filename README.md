@@ -1,23 +1,25 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This software demonstrates a "Hello World" program in JavaScript, serving as a foundation for building and running software projects. The goal is to practice writing, testing, and version-controlling software while preparing for more complex projects in the future.  
 
-{Provide a description of your software}
+The program prints a greeting message to the console, showing that the development environment and workflow are properly set up. It is also a starting point for exploring enhancements and additional programming features.  
 
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+The purpose of creating this software is to ensure I can:
+- Write and run a basic JavaScript program
+- Use Git and GitHub to manage code and version control
+- Document software clearly using Markdown in a README.md
+- Record a video demonstrating the program and providing a code walkthrough
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used}
+- **IDE / Editor:** Visual Studio Code  
+- **Version Control:** Git, GitHub  
+- **Programming Language:** JavaScript (Node.js runtime)  
+- **Operating System:** Windows 10  
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+- [GitHub Repository](https://github.com/BenjaminOffor/hello-world-program)  
+- [Software Demo Video](http://youtube.link.goes.here)  
